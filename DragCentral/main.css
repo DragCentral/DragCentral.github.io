@@ -1,0 +1,105 @@
+#title{
+    font-size: 12vw;
+    font-family: 'Staatliches', cursive;
+    margin: 15px;
+    text-align: center;
+}
+.button{
+
+  border: none;
+  color: white;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#home{
+     background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer; 
+}
+#wigs{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#dresses{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#heels{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#tutorials{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#performances{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#interviews{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#contacts{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}

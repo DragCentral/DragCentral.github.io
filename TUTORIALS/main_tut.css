@@ -6,7 +6,7 @@ html{
     font-family: 'Mrs Sheppards', cursive;
     margin: 15px;
     text-align: center;
-    color: forestgreen;
+    color: #1946fa;
 }
 .button{
 
@@ -20,7 +20,7 @@ html{
   cursor: pointer;
 }
 #home{
-     background-color: forestgreen;
+     background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -33,7 +33,7 @@ html{
   letter-spacing: 1px;
 }
 #wigs{
-      background-color: forestgreen;
+      background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -46,7 +46,7 @@ html{
   letter-spacing: 1px;
 }
 #dresses{
-      background-color: forestgreen;
+      background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -59,7 +59,7 @@ html{
   letter-spacing: 1px;
 }
 #heels{
-      background-color: forestgreen;
+      background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -72,7 +72,7 @@ html{
   letter-spacing: 1px;
 }
 #tutorials{
-      background-color: forestgreen;
+      background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -85,7 +85,7 @@ html{
   letter-spacing: 1px;
 }
 #performances{
-      background-color: forestgreen;
+      background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -98,7 +98,7 @@ html{
   letter-spacing: 1px;
 }
 #interviews{
-      background-color: forestgreen;
+      background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -111,7 +111,7 @@ html{
   letter-spacing: 1px;
 }
 #contacts{
-  background-color: forestgreen;
+  background-color: #1946fa;
   border: none;
   color: white;
   padding: 20px 30px;
@@ -124,14 +124,11 @@ html{
   letter-spacing: 1px;
 }
 #subTitle{
+    padding-top: 3vw;
     margin: -7px;
     text-align: center;
-    font-size: 2.5vw;
+    font-size: 5vw;
     font-family: 'Staatliches', cursive;
-    color: floralwhite;
-    background-color: forestgreen;
-}
-#heel{
-    margin: 0;
-    padding-top: 20px;
+    color: #1946fa;
+   
 }

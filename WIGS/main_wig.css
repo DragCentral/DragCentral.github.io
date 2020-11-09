@@ -1,0 +1,137 @@
+html{
+    background-color: black
+}
+#title{
+    font-size: 12vw;
+    font-family: 'Mrs Sheppards', cursive;
+    margin: 15px;
+    text-align: center;
+    color: floralwhite;
+}
+.button{
+
+  border: none;
+  color: white;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#home{
+     background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#wigs{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#dresses{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#heels{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#tutorials{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#performances{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#interviews{
+      background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#contacts{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#subTitle{
+    margin: -7px;
+    text-align: center;
+    font-size: 2.5vw;
+    font-family: 'Staatliches', cursive;
+    color: floralwhite;
+    background-color: red;
+}
+#hair{
+    margin: 0;
+    padding-top: 20px;
+}

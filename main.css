@@ -1,8 +1,12 @@
+html{
+    background-color: black
+}
 #title{
     font-size: 12vw;
-    font-family: 'Staatliches', cursive;
+    font-family: 'Mrs Sheppards', cursive;
     margin: 15px;
     text-align: center;
+    color: floralwhite;
 }
 .button{
 
@@ -25,6 +29,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer; 
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #wigs{
       background-color: red;
@@ -36,6 +42,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #dresses{
       background-color: red;
@@ -47,6 +55,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #heels{
       background-color: red;
@@ -58,6 +68,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #tutorials{
       background-color: red;
@@ -69,6 +81,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #performances{
       background-color: red;
@@ -80,6 +94,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #interviews{
       background-color: red;
@@ -91,6 +107,8 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
 }
 #contacts{
       background-color: red;
@@ -102,4 +120,18 @@
   font-size: 16px;
   margin: 4px 2px; 
   cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#subTitle{
+    margin: -7px;
+    text-align: center;
+    font-size: 2.5vw;
+    font-family: 'Staatliches', cursive;
+    color: floralwhite;
+    background-color: red;
+}
+#queens{
+    margin: 0;
+    padding-top: 20px;
 }

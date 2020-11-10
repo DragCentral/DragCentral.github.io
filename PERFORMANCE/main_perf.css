@@ -135,3 +135,13 @@ html{
     margin: 0;
     padding-top: 20px;
 }
+#subScript{
+     font-family: 'Staatliches', cursive;
+    font-size: 5vw;
+    color: rebeccapurple;
+    text-align: center;
+}
+.vidOne{
+    text-align: center;
+    padding-bottom: 15px;
+}

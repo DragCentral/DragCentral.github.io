@@ -132,3 +132,24 @@ html{
     color: #1946fa;
    
 }
+#tutorialText{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #1946fa;
+    padding-right: 20vw;
+    padding-left: 20vw;
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
+.rowOne{
+    text-align: center;
+}
+.rowTwo{
+    text-align: center;
+}
+.rowThree{
+    text-align: center;
+}
+

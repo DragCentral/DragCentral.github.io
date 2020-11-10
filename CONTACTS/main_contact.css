@@ -1,0 +1,139 @@
+html{
+    background-color: black;
+}
+#title{
+    font-size: 12vw;
+    font-family: 'Mrs Sheppards', cursive;
+    margin: 15px;
+    text-align: center;
+    color: whitesmoke;
+}
+.button{
+
+  border: none;
+  color: white;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+}
+#home{
+     background-color: red;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer; 
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#wigs{
+      background-color: orangered;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#dresses{
+      background-color: #e6da00;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#heels{
+      background-color: forestgreen;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#tutorials{
+      background-color: #1946fa;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#performances{
+      background-color: rebeccapurple;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#interviews{
+      background-color: #ff5cd3;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#contacts{
+  background-color: brown;      
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#subTitle{
+    margin: -7px;
+    text-align: center;
+    font-size: 2.5vw;
+    font-family: 'Staatliches', cursive;
+    color: black;
+    background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+ 
+}
+#contact{
+    margin: 0;
+    padding-top: 20px;
+}

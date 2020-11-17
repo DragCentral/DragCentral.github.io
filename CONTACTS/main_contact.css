@@ -150,3 +150,148 @@ html{
   font-family: 'Staatliches', cursive;
   letter-spacing: 1px; 
 }
+#subTitl{
+    padding-top: 3vw;
+    margin: -7px;
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Staatliches', cursive;
+    color: gainsboro;
+   
+}
+#tutorialTextOne{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: red;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextTwo{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: orangered;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextThree{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #e6da00;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextFour{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: forestgreen;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextFive{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #1946fa;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextSix{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: rebeccapurple;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextSeven{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #ff5cd3;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextEight{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: red;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextNine{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: orangered;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextTen{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #e6da00;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextRed{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: forestgreen;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextBlue{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #1946fa;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextGreen{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: rebeccapurple;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#tutorialTextPink{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: #ff5cd3;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
+#Insta{
+    padding-top: 1vw;
+    margin: -7px;
+    text-align: center;
+    font-size: 2vw;
+    font-family: 'Staatliches', cursive;
+    color: rebeccapurple;
+   
+}
+

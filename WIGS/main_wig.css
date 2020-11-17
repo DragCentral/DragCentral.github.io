@@ -135,3 +135,46 @@ html{
     margin: 0;
     padding-top: 20px;
 }
+.row{
+    
+  border: none;
+  color: white;
+  padding: 20px 48px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px; 
+  cursor: pointer;
+    
+}
+#blonde{
+   
+background-color: orangered;
+  border: none;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: auto; 
+  cursor: pointer;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+#subTitl{
+    padding-top: 3vw;
+    margin: -7px;
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Staatliches', cursive;
+    color: orangered;
+   
+}
+#tutorialText{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: orangered;
+    padding-right: 25vw;
+    padding-left: 25vw;
+    text-align: center;
+}

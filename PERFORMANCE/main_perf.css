@@ -145,3 +145,21 @@ html{
     text-align: center;
     padding-bottom: 15px;
 }
+#subTitl{
+    padding-top: 3vw;
+    margin: -7px;
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Staatliches', cursive;
+    color: rebeccapurple;
+   
+}
+#tutorialText{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2vw;
+    color: rebeccapurple;
+    padding-right: 26vw;
+    padding-left: 26vw;
+    margin-bottom: 3vw;
+    text-align: center;
+}
